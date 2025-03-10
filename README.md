@@ -12,7 +12,7 @@ Using the ChillsDB 2.0 dataset (and additional sources such as YouTube transcrip
 
 We combine these features to explore relationships with chills through clustering, classification, and regression models.
 
-Repository Structure
+## Repository Structure
 ```
 .
 ├── .ipynb_checkpoints/               # Jupyter auto-generated checkpoint folder
